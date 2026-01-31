@@ -1,4 +1,4 @@
-## 2.0.06
+## 2.0.0
 - Modification parametre 11
 	  
 ## 2.0.05
